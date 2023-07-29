@@ -1,2 +1,3 @@
-# micrograd
-This repo aims to store code for a refresher of backprob, gradients and mlp concepts
+# Micrograd
+
+This repo is intended to practice concepts of backpropagation, gradients and multi layer perceptrons. It was built based on Micrograd - by  Andrej Karpathy
